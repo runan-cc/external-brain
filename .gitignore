@@ -1,0 +1,14 @@
+# Wiki gitignore
+# Don't track raw assets that are too large
+raw/assets/*
+!raw/assets/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
