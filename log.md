@@ -5,6 +5,13 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > 超过 500 条时轮转: 重命名为 log-YYYY.md, 新建 log.md。
 
+## [2026-07-22] create | 第二轮知识库扩充
+- 新增概念页: moe-mixture-of-experts, vector-database, scaling-laws, lora, mcp-model-context-protocol, grpc, rlhf, reinforcement-learning, diffusion-models
+- 新增实体页: linux, kubernetes, typescript, github, nodejs
+- 新增比较页: api-paradigms, sql-vs-nosql
+- 更新 index.md: 总页面数 32，重组分类结构
+- 本轮 +14 页
+
 ## [2026-07-22] create | 基础知识库批量创建
 - 目录结构初始化: entities/, concepts/, comparisons/, queries/, raw/articles/, _archive/
 - 创建 16 个页面（8 entities + 10 concepts + 1 comparison + log 更新）
