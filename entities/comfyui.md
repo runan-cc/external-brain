@@ -88,6 +88,20 @@ Prompt → CLIP → AnimateDiff Loader → KSampler → AnimateDiff → Video Co
 | 生态 | 快速增长 | ✅ 成熟 |
 | 适合 | 高级用户、批量生产 | 入门、快速出图 |
 
+## 生产环境实战
+
+### 我的工作流
+
+RTX 5090 D (24GB) 本地 ComfyUI，图像生成卸载到 [[runninghub]] 云端 API：
+
+```
+RunningHub (云端出图) → ComfyUI (本地出视频) → DaVinci (剪辑)
+     ↑                         ↑
+  定妆照+分镜             LTX2.3 / Wan 2.2
+```
+
+已安装工作流：LTX2.3 图生/文生合并版、Wan 2.2 图生视频+音频、高清放大、视频修复、SeedVR2 超分、情感语音合成、LTX2.3 导演台。
+
 ## 视频生成工作流
 
 ComfyUI 是 AI 视频生成社区的主力工具：
@@ -129,3 +143,4 @@ ComfyUI 工作流是 JSON 文件 → Git 管理、分享、复现：
 - [[diffusion-models]]
 - [[ai-video-generation]]
 - [[stable-diffusion]]
+- [[runninghub]]

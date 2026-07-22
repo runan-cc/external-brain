@@ -70,6 +70,23 @@
 
 - [[cryptography]] — 密码学基础：对称/非对称加密、哈希、数字签名、TLS/SSH
 
+## AI 视频制作
+
+### 工具与平台
+- [[comfyui]] — ComfyUI：基于节点图的 AI 图像/视频生成工作流工具
+- [[runninghub]] — RunningHub：云端 AI 图像生成 API，文生图/图生图
+
+### 视频生成
+- [[ai-video-generation]] — AI 视频生成总览：Sora/Kling/Runway/Wan/LTX 模型对比
+- [[stable-diffusion-practice]] — Stable Diffusion 实战：Prompt/ControlNet/IP-Adapter 完整指南
+- [[diffusion-models]] — 扩散模型：DALL-E / Stable Diffusion / Sora 的底层架构
+
+### 制作流程
+- [[ai-video-workflow]] — AI 视频制作工作流：从创意到成品的 12 步流水线
+- [[ai-video-project-guide]] — AI 视频项目指南：快速启动、工具组合、学习路径
+- [[video-encoding]] — 视频编码：H.264/H.265/AV1/VP9 编码原理与参数
+- [[tts-ai-voice]] — TTS & AI 语音：配音工具对比 (ElevenLabs/GPT-SoVITS)
+
 ## AI/ML
 
 ### AI/ML 核心
@@ -77,7 +94,6 @@
 - [[transformer-architecture]] — Transformer 架构：自注意力驱动的神经网络基础架构
 - [[moe-mixture-of-experts]] — MoE：混合专家架构，参数增长而计算可控
 - [[scaling-laws]] — 缩放定律：模型性能与规模的可预测关系
-- [[diffusion-models]] — 扩散模型：DALL-E / Stable Diffusion / Sora 的底层架构
 
 ### LLM 技术
 - [[ai-agent]] — AI 智能体：能感知、规划、执行任务的自主 AI 系统
