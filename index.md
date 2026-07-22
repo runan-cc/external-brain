@@ -2,7 +2,7 @@
 
 > 内容目录。每个 wiki 页面在对应分类下列出 + 一句话摘要.
 > 先看这里找到相关页面.
-> 最后更新: 2026-07-22 | 总页面数: 65
+> 最后更新: 2026-07-22 | 总页面数: 85
 
 ## 硬件与体系结构
 
@@ -100,6 +100,29 @@
 - [[rest-vs-graphql]] — REST vs GraphQL：两种 API 范式对比
 - [[api-paradigms]] — REST vs GraphQL vs gRPC：三种 API 范式三国杀
 - [[sql-vs-nosql]] — SQL vs NoSQL：关系型与非关系型数据库对比
+
+### ML 基础
+- [[machine-learning]] — 机器学习基础：监督/无监督、分类/回归、偏差-方差
+- [[gradient-descent]] — 梯度下降：SGD、Adam、学习率调度、鞍点
+- [[information-theory]] — 信息论：熵、交叉熵、KL 散度、信道容量
+
+## 前端
+
+- [[html-css]] — HTML & CSS：Web 结构和样式的基石
+- [[browser-internals]] — 浏览器工作原理：渲染路径、V8、事件循环、Core Web Vitals
+
+## 中间件
+
+- [[kafka]] — Kafka：分布式提交日志，流处理平台
+- [[redis]] — Redis：内存数据结构存储，缓存/消息/排行榜
+- [[message-queue]] — 消息队列：异步通信、Kafka vs RabbitMQ
+
+## Comparisons (比较/对比)
+
+- [[rest-vs-graphql]] — REST vs GraphQL：两种 API 范式对比
+- [[api-paradigms]] — REST vs GraphQL vs gRPC：三种 API 范式三国杀
+- [[sql-vs-nosql]] — SQL vs NoSQL：关系型与非关系型数据库对比
+- [[rdbms-vs-document-db]] — RDBMS vs Document DB：关系型与文档型数据库对比
 
 ## Queries (查询归档)
 
