@@ -12,3 +12,7 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# Obsidian workspace (auto-generated)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

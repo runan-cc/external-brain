@@ -3,5 +3,7 @@
   "newFileFolderPath": "pages",
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
